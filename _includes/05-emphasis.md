@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**C++**
+__C__
+*XML*
+_SQL_
+_A little **Perl**_
+*A little __HTML__*
+

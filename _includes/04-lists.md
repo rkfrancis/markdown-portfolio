@@ -5,3 +5,13 @@
   3. She has magic
 3. Jolene is a Tuxedo cat
 
+:smile:
+
+- Learn git
+- Learn C#
+- Learn python
+  - python is a scripting language
+  - python is interpreted
+  - there is an IDE for python
+- Learn C++17
+
